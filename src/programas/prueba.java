@@ -13,7 +13,7 @@ public class prueba {
         System.out.println("--- REGISTRO DE COMPRAS ---");
 
         // Registrar el nombre del cliente
-        System.out.print("Ingrese el nombre del cliente: ");
+        System.out.print("Ingrese TU NOMBRE : ");
         String nombreCliente = scanner.nextLine();
 
         // Registrar las tres compras
